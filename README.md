@@ -7,7 +7,7 @@ To implement Linear Trend Estimation and Polynomial Trend Estimation using Pytho
 
 ### ALGORITHM:
 1. Import the required libraries (Pandas, NumPy, and Matplotlib).
-2. Load the AirPassengers dataset.
+2. Load the New Car Sales by Make dataset.
 3. Convert the Month column into Date-Time format.
 4. Remove missing values, if any.
 5. Calculate the Linear Trend using the Least Squares Method.
